@@ -1,0 +1,10 @@
+// 将es6以上的语法转换成低版本的语法
+{
+  "presets": [
+    "env"
+  ],
+  "plugins":[
+    // 专门转换vue中的jsx语法
+    "transform-vue-jsx"
+  ]
+}
