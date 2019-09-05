@@ -23,7 +23,7 @@ export default {
   },
 }
 </script>
-<style  scoped>
+<style lang="stylus" scoped>
   #app{
     position: absolute;
     left: 0;
@@ -42,5 +42,5 @@ export default {
     z-index: -1;
     opacity: 0.6;
   }
-    
+
 </style>
